@@ -1,6 +1,3 @@
-# by Rohit Mukherjee and Bryan Thayillam
-
-
 # A class which represents a pref object (male or female), taking in a preference list (or none)
 class pref:
 	def __init__(self, *args):
