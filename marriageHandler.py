@@ -1,5 +1,3 @@
-# by Rohit Mukherjee
-
 from stableMarriage import *
 
 # Handler: queries user for the setup of what they want.
